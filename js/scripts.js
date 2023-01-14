@@ -52,6 +52,6 @@ btn.addEventListener(`click`, function(){
     document.getElementById(`container`).innerHTML =`Questi sono i numeri da ricordare:`;
 
     
-    setTimeout(clear, 3000);
-    setTimeout(response, 3100);
+    setTimeout(clear, 30000);
+    setTimeout(response, 30500);
 })
